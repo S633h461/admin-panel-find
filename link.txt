@@ -291,3 +291,4 @@ superuser%EXT%
 supervise/
 supervise/Login%EXT%
 super%EXT%
+admin
